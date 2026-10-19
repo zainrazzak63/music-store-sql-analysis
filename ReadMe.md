@@ -10,7 +10,7 @@ SQL analysis of the **Chinook** digital music store database using MySQL. I expl
 ## Database structure
 
 
-![ER diagram](er_diagram.png)
+![ER diagram](Er_diagram.png.png)
 
 
 
